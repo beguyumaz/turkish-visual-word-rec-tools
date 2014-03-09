@@ -1,5 +1,3 @@
-You can find source codes in src folder
-
 ####################################################################################
 #																				                                           #
 #					Wuggy Turkish Plugin Installation Guide						                       #
@@ -7,7 +5,10 @@ You can find source codes in src folder
 ####################################################################################
 
 The Turkish plugin is written for Wuggy version 0.1.7 It should also work well with
-the newest versions but if you encounter an error please install 0.1.7 version. 
+the newest versions but if you encounter an error please install 0.1.7 version.
+
+You can install Wuggy from this website: http://crr.ugent.be/programs-data/wuggy
+
 After Wuggy installation put the files in the respective folders (e.g., Turkish plugin
 file in data folder into Wuggy's data folder.
 
